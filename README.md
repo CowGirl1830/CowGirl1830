@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **React, Next.js, Backend Development**
 
+- 🔭 I’m currently studying at **King Mongkut’s University of Technology Thonburi**
+
 - 💬 Ask me about **Exercise, Calisthenics, League of Legends**
 
 - 📫 How to reach me **nawapon.promnan0@gmail.com**
